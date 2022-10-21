@@ -1,0 +1,15 @@
+C:\Users\alhas\source\repos\CountryLab\CountryLab\bin\Debug\net6.0\CountryLab.exe
+C:\Users\alhas\source\repos\CountryLab\CountryLab\bin\Debug\net6.0\CountryLab.deps.json
+C:\Users\alhas\source\repos\CountryLab\CountryLab\bin\Debug\net6.0\CountryLab.runtimeconfig.json
+C:\Users\alhas\source\repos\CountryLab\CountryLab\bin\Debug\net6.0\CountryLab.dll
+C:\Users\alhas\source\repos\CountryLab\CountryLab\bin\Debug\net6.0\CountryLab.pdb
+C:\Users\alhas\source\repos\CountryLab\CountryLab\obj\Debug\net6.0\CountryLab.csproj.AssemblyReference.cache
+C:\Users\alhas\source\repos\CountryLab\CountryLab\obj\Debug\net6.0\CountryLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alhas\source\repos\CountryLab\CountryLab\obj\Debug\net6.0\CountryLab.AssemblyInfoInputs.cache
+C:\Users\alhas\source\repos\CountryLab\CountryLab\obj\Debug\net6.0\CountryLab.AssemblyInfo.cs
+C:\Users\alhas\source\repos\CountryLab\CountryLab\obj\Debug\net6.0\CountryLab.csproj.CoreCompileInputs.cache
+C:\Users\alhas\source\repos\CountryLab\CountryLab\obj\Debug\net6.0\CountryLab.dll
+C:\Users\alhas\source\repos\CountryLab\CountryLab\obj\Debug\net6.0\refint\CountryLab.dll
+C:\Users\alhas\source\repos\CountryLab\CountryLab\obj\Debug\net6.0\CountryLab.pdb
+C:\Users\alhas\source\repos\CountryLab\CountryLab\obj\Debug\net6.0\CountryLab.genruntimeconfig.cache
+C:\Users\alhas\source\repos\CountryLab\CountryLab\obj\Debug\net6.0\ref\CountryLab.dll
